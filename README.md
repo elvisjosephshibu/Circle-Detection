@@ -1,5 +1,7 @@
 # Circle-Detection
 
+I am doing the work in Google Colab and opencv library for solving this problem. 
+
 
 •	First I downloaded the sample_images folder and uploaded to my google drive. 
 •	For accessing the folder in the drive, we have to mount the drive with the colab.
